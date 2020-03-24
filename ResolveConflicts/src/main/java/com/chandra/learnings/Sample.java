@@ -9,6 +9,18 @@ public class Sample {
 		System.out.println("master");
 		System.out.println("chandra12");
 		System.out.println("master12");
+		System.out.println("master12");
+		System.out.println("chandra12");
+		System.out.println("chandra1");
+		System.out.println("master");
+		System.out.println("chandra12");
+		System.out.println("master12");
+		System.out.println("master12");
+		System.out.println("chandra12");
+		System.out.println("chandra1");
+		System.out.println("master");
+		System.out.println("chandra12");
+		System.out.println("master12");
 	}
 	
 }
