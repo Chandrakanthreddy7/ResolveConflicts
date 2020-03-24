@@ -1,0 +1,15 @@
+package com.chandra.learnings;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		System.out.println("master");
+<<<<<<< cfd5791a10725e9a1f9f50b829c8cb02b8aeb879
+		System.out.println("chandra1");
+		System.out.println("chandra12");
+		System.out.println("master12");
+=======
+>>>>>>> Update Sample.java
+	}
+	
+}

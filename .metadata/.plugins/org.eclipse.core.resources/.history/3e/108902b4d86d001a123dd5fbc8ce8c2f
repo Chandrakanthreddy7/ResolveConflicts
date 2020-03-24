@@ -1,0 +1,30 @@
+package com.chandra.learnings;
+
+public class Sample {
+
+	public static void main(String[] args) {
+<<<<<<< a4166f955f8da9a77d3013cf73ad40eb13662f96
+		System.out.println("mastermaster master");
+=======
+		System.out.println("master chandra1");
+>>>>>>> f
+		System.out.println("chandra12");
+		System.out.println("chandra1");
+		System.out.println("master");
+		System.out.println("chandra12");
+		System.out.println("master12");
+		System.out.println("master12");
+		System.out.println("chandra12");
+		System.out.println("chandra1");
+		System.out.println("master");
+		System.out.println("chandra12");
+		System.out.println("master12");
+		System.out.println("master12");
+		System.out.println("chandra12");
+		System.out.println("chandra1");
+		System.out.println("master");
+		System.out.println("chandra12");
+		System.out.println("master12");
+	}
+	
+}
