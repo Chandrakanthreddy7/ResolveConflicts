@@ -1,0 +1,8 @@
+package com.chandra.learnings;
+
+public class SampleNew {
+	public static void main(String[] args) {
+		System.out.println("Sample New ");
+	}
+
+}
